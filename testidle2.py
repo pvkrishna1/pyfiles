@@ -1,0 +1,12 @@
+a=1000
+print(a)
+print(type(a))
+print(id(a))
+a=2000
+print(a)
+print(type(a))
+print(id(a))
+a=123.123
+print(a)
+print(type(a))
+print(id(a))

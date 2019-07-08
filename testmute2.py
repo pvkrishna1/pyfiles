@@ -1,0 +1,16 @@
+x=[10,20,30]
+print(x)
+print(type(x))
+print(id(x))
+y=[40,50,60]
+print(y)
+print(type(y))
+print(id(y))
+p=[70,80,90]
+print(p)
+print(type(p))
+print(id(p))
+q=[70,80,90]
+print(q)
+print(type(q))
+print(id(q))

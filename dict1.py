@@ -1,0 +1,17 @@
+x={}
+print(x)
+print(type(x))
+print(len(x))
+y=dict()
+print(y)
+print(type(y))
+print(len(y))
+x={"java":80,"python":99,"hadoop":89}
+print(x)
+print(len(x))
+p={"django":80,"flask":70,"django":95}
+print(p)
+q={"aws":90,"devops":90,"restpai":95}
+print(q)
+r={100:123.123,3+4j:True,"lokeshit":99}
+print(r)

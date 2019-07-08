@@ -1,0 +1,11 @@
+x="lokesh"
+y="python"
+z="1234"
+p=1000
+q=2000
+print(x+y)
+print(x+z)
+print(x+str(p))
+print(p+q)
+print(int(z)+q)
+print(z+str(q))

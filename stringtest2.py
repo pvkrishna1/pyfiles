@@ -1,0 +1,12 @@
+x="lokeshit"
+print(x)
+print(x[2])
+print(x[-2])
+print(x[1:5])
+print(x[3:])
+print(x[:6])
+print(x[7:2])
+print(x[-7:-2])
+print(x[-3:-8])
+print(x[2:-2])
+print(x[-7:6])

@@ -1,0 +1,11 @@
+x='lokeshit'
+print(x)
+print(type(x))
+print(len(x))
+print(x*3)
+y='''python
+django
+restpai'''
+print(y)
+print(type(y))
+print(len(y))
